@@ -11,3 +11,8 @@ There are two different notebooks in this repository.
 
 ## I want to generate names for a boy
 Although the notebooks focus on generating girl names it would be easy to generate names for a boy. In generate_babynames_complete.ipynb you can where I found the datasets. All input datasets have two columns: `Naam` (key column) and `Aantal` (mostly for additional analyses purposes).
+
+## I don't have a GPU
+I recommend to run the complete notebook with a GPU. The GPU will significantly speed up the model fitting. You can find the complete notebook [here](https://colab.research.google.com/drive/12-JiEEEMeAkrc1eFVObPHrHNGV95qo5L?usp=sharing) and the minimal notebook to just generate names [here](https://colab.research.google.com/drive/160vRqNeNE_76Pn16KoLPYd5jEkM0QLdN?usp=sharing). 
+
+To use the notebooks, copy them to your personal Drive. From there you can edit and run the cells.

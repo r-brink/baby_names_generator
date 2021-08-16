@@ -1,4 +1,4 @@
-polars==0.8.14
+polars==0.8.21
 tensorflow==2.5.0
 numpy==1.19.5
 Unidecode==1.2.0
